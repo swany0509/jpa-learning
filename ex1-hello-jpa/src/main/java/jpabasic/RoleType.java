@@ -1,2 +1,5 @@
-package jpabasic;public class RoleType {
+package jpabasic;
+
+public enum RoleType {
+    USER, ADMIN
 }
